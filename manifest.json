@@ -1,0 +1,50 @@
+{
+ "abiVersion": 1,
+ "runtimes": [
+  {
+   "name": "llama-generic",
+   "family": "llama",
+   "package": "com.zhixu.app.runtime.llama",
+   "versionCode": 1,
+   "file": "llama-generic/zhixu-runtime-llama-generic-v1.apk",
+   "size": 9655309,
+   "sha256": "a7100d135c22ea84a1234fa9a97e6f6548f34c41d4ed38305da8536962762377"
+  },
+  {
+   "name": "llama-mtk",
+   "family": "llama",
+   "package": "com.zhixu.app.runtime.llamamtk",
+   "versionCode": 1,
+   "file": "llama-mtk/zhixu-runtime-llama-mtk-v1.apk",
+   "size": 9671693,
+   "sha256": "77863d6ce6986848ca1ea11ce5e7365083c9c4675937f8725a58eee4eb3477b8"
+  },
+  {
+   "name": "llama-qcom",
+   "family": "llama",
+   "package": "com.zhixu.app.runtime.llamaqcom",
+   "versionCode": 1,
+   "file": "llama-qcom/zhixu-runtime-llama-qcom-v1.apk",
+   "size": 2405187,
+   "sha256": "3c6254cd542b6247130c91809c99dacc9e9d9a7f59282e0851571ebda05feb80"
+  },
+  {
+   "name": "mnn",
+   "family": "mnn",
+   "package": "com.zhixu.app.runtime.mnn",
+   "versionCode": 1,
+   "file": "mnn/zhixu-runtime-mnn-v1.apk",
+   "size": 3043868,
+   "sha256": "9d2fe07c3ab2f3280e4ea565edc93075af7006247014f27ed3b281f1aa0fe817"
+  },
+  {
+   "name": "stt",
+   "family": "stt",
+   "package": "com.zhixu.app.runtime.stt",
+   "versionCode": 1,
+   "file": "stt/zhixu-runtime-stt-v1.apk",
+   "size": 9941544,
+   "sha256": "efc2adfba24619337e6a11c16b2c073f8b5fe6fe2fac14ec0927bef04b67eabd"
+  }
+ ]
+}
